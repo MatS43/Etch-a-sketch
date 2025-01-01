@@ -1,0 +1,14 @@
+#container{
+    display: flex;
+    flex-wrap: wrap;
+    height: 960px;
+    width: 960px;
+}
+.black{
+    background-color: black;
+}
+#btn{
+    padding: 30px;
+    display: block;
+    margin-left: 480px;
+}
